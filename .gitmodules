@@ -1,0 +1,3 @@
+[submodule "Travel.Connectors.Hotel/src/submodules/platform-commmon"]
+	path = Travel.Connectors.Hotel/src/submodules/platform-commmon
+	url = git@github.com:TaviscaSolutions/platform-common.git
