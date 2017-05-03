@@ -1,0 +1,1 @@
+# connector-hotels-getaroom-core
